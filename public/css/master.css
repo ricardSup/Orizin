@@ -1,0 +1,26 @@
+a{text-decoration: none}
+.img-product{
+    padding: 20px;
+}
+.icon-button {
+    appearance: none;
+    outline: none;
+    border: 0;
+    background: transparent;
+}
+* {
+    margin: 0;
+}
+html, body {
+    height: 100%;
+}
+.wrapper {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -155px;
+}
+.footer, .push {
+    height: 155px;
+    text-align: center;
+}
